@@ -1,1 +1,1 @@
-# singlecell-RNA-seq
+# single-cell-RNA-seq
